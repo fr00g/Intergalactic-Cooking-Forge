@@ -791,6 +791,19 @@
         ]
       },
       "path": "~/gui"
+    },
+    {
+      "name": "Thing",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thing",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/realistic_cooking/models/item/thing.json",
+          "src/main/java/net/mcreator/realisticcooking/item/ThingItem.java"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -897,20 +910,21 @@
       "gui.realistic_cooking.cookies_gui.label_topping_1": "Topping 1",
       "gui.realistic_cooking.cookies_gui.label_sweetener": "Sweetener",
       "gui.realistic_cooking.cookies_gui.label_dough": "Dough",
-      "gui.realistic_cooking.cookies_gui.label_toppings": "Toppings:"
+      "gui.realistic_cooking.cookies_gui.label_toppings": "Toppings:",
+      "item.realistic_cooking.thing": "Thing"
     }
   },
   "metadata": {
     "files": [
       "src/main/java/net/mcreator/realisticcooking/init/RealisticCookingModScreens.java",
-      "src/main/java/net/mcreator/realisticcooking/network/MenuStateUpdateMessage.java",
       "src/main/java/net/mcreator/realisticcooking/init/RealisticCookingModMenus.java",
+      "src/main/java/net/mcreator/realisticcooking/network/MenuStateUpdateMessage.java",
       "src/main/java/net/mcreator/realisticcooking/init/RealisticCookingModBlocks.java",
       "src/main/java/net/mcreator/realisticcooking/init/RealisticCookingModBlockEntities.java",
       "src/main/java/net/mcreator/realisticcooking/init/RealisticCookingModItems.java",
-      "src/main/java/net/mcreator/realisticcooking/RealisticCookingMod.java",
       "src/main/resources/pack.mcmeta",
       "src/main/java/net/mcreator/realisticcooking/init/RealisticCookingModTabs.java",
+      "src/main/java/net/mcreator/realisticcooking/RealisticCookingMod.java",
       "src/main/resources/META-INF/mods.toml"
     ]
   },

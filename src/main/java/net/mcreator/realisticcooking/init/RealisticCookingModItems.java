@@ -35,6 +35,7 @@ public class RealisticCookingModItems {
 	public static final RegistryObject<Item> KELP_COOKIE;
 	public static final RegistryObject<Item> BAMBOO_COOKIE;
 	public static final RegistryObject<Item> MAGNET;
+	public static final RegistryObject<Item> THING;
 	static {
 		COOKING_STATION = block(RealisticCookingModBlocks.COOKING_STATION);
 		BEEF_SOUP = REGISTRY.register("beef_soup", BeefSoupItem::new);
@@ -55,6 +56,7 @@ public class RealisticCookingModItems {
 		KELP_COOKIE = REGISTRY.register("kelp_cookie", KelpCookieItem::new);
 		BAMBOO_COOKIE = REGISTRY.register("bamboo_cookie", BambooCookieItem::new);
 		MAGNET = REGISTRY.register("magnet", MagnetItem::new);
+		THING = REGISTRY.register("thing", ThingItem::new);
 	}
 
 	// Start of user code block custom items

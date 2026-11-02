@@ -64,5 +64,6 @@
   "gui.realistic_cooking.cookies_gui.label_topping_1": "Topping 1",
   "gui.realistic_cooking.cookies_gui.label_sweetener": "Sweetener",
   "gui.realistic_cooking.cookies_gui.label_dough": "Dough",
-  "gui.realistic_cooking.cookies_gui.label_toppings": "Toppings:"
+  "gui.realistic_cooking.cookies_gui.label_toppings": "Toppings:",
+  "item.realistic_cooking.thing": "Thing"
 }
