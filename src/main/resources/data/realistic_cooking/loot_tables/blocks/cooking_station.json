@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "realistic_cooking:blocks/cooking_station",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "realistic_cooking:cooking_station"
+        }
+      ]
+    }
+  ]
+}

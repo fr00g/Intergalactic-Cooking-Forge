@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "realistic_cooking:block/cooking_station"
+    },
+    "facing=east": {
+      "model": "realistic_cooking:block/cooking_station",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "realistic_cooking:block/cooking_station",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "realistic_cooking:block/cooking_station",
+      "y": 270
+    }
+  }
+}

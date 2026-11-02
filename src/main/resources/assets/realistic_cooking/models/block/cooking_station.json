@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "realistic_cooking:block/untitled-pixel-art4x_3",
+    "up": "realistic_cooking:block/untitled-pixel-art4x_1",
+    "north": "realistic_cooking:block/untitled-pixel-art4x_4",
+    "east": "realistic_cooking:block/untitled-pixel-art4x_2",
+    "south": "realistic_cooking:block/untitled-pixel-art4x_2",
+    "west": "realistic_cooking:block/untitled-pixel-art4x_2",
+    "particle": "realistic_cooking:block/untitled-pixel-art4x_3"
+  },
+  "render_type": "solid"
+}

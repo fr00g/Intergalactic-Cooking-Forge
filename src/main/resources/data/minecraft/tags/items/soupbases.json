@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:cooked_cod",
+    "minecraft:cooked_porkchop",
+    "minecraft:cooked_beef",
+    "minecraft:cooked_chicken",
+    "minecraft:cooked_rabbit",
+    "minecraft:totem_of_undying",
+    "minecraft:carrot",
+    "minecraft:potato",
+    "minecraft:cooked_mutton",
+    "minecraft:cooked_salmon"
+  ]
+}
